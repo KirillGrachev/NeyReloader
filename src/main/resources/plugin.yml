@@ -1,0 +1,4 @@
+name: NeyReloader
+version: '${project.version}'
+main: org.ney.neyreloader.NeyReloader
+api-version: 1.16

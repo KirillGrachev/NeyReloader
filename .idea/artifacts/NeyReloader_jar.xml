@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="NeyReloader:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/NeyReloader_jar</output-path>
+    <root id="archive" name="NeyReloader.jar">
+      <element id="module-output" name="NeyReloader" />
+    </root>
+  </artifact>
+</component>
